@@ -42,7 +42,7 @@
     <connections>
       <connection id="5c5ff802-64e9-4ad9-bc2f-c0e476d9af7c" active="true" signed="true">
         <database>
-          <name value="Connection123" />
+          <name value="Connection1231" />
           <description value="" />
           <database-type value="MYSQL" />
           <config-type value="BASIC" />

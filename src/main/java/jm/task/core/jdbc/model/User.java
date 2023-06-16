@@ -24,9 +24,13 @@ public class User {
 
     @Override
     public String toString() {
-
-        String format = String.format("User id - " + getId() + " name - " + getName() + " lastName - " + getLastName() + " age - " + getAge());
-        return format;
+        return
+                "User{" +
+                        "id=" + id +
+                        ", name='" + name + '\'' +
+                        ", lastName='" + lastName + '\'' +
+                        ", age=" + age +
+                        '}';
     }
 
 
